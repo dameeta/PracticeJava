@@ -1,0 +1,7 @@
+
+1. Create Product class with id,prname,price and use comparator interface 
+sort the product by id,prname,price;
+
+2. Create Student class and take inpur from user for marks and sort the students according t their marks.
+Sorting the student by their name and their marks.
+
